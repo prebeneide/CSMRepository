@@ -47,11 +47,17 @@ nav a:hover {
   .navelement {
     background: #461b05;
   }
+  nav li {
+    display: block;
+  }
 }
 
 @media (min-width: 400px) and (max-width: 563px) {
   .navelement {
     background: #12b3cf;
+  }
+  nav li {
+    display: block;
   }
 }
 
@@ -65,10 +71,11 @@ nav a:hover {
   }
   .mainlogo {
     width: 60px;
+    top: 40px;
   }
   nav li {
     margin-left: 5px;
-    padding-top: 50px;
+    bottom: 13px;
   }
 }
 
