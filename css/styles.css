@@ -64,8 +64,8 @@ nav a:hover {
     display: block;
   }
   .mainlogo {
-    width: 157px;
-    text-align: center;
+    width: 120px;
+    display: block;
   }
 }
 
