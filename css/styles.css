@@ -35,9 +35,13 @@ nav a:hover {
 .active {
   color: white;
   font-size: 40px;
-  text-shadow: green 3px;
 }
 
 .mainlogo {
   width: 157px;
+}
+
+@media (min-width: 800px) and (max-width: 1200px) {
+    .active {
+        color: purple;
 }
