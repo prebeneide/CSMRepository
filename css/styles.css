@@ -57,19 +57,18 @@ nav a:hover {
 
 @media (min-width: 564px) and (max-width: 767px) {
   nav a {
-    font-size: 12px;
-    padding: 5px;
+    font-size: 11px;
+    padding: 4px;
+    top: 10px;
   }
   .navelement {
-    background: #cbcf12;
+    background: #4de298;
   }
   .mainlogo {
-    width: 90px;
-    left: 10px;
+    width: 60px;
   }
   nav li {
     margin-left: 5px;
-    left: 10px;
   }
 }
 
