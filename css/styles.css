@@ -63,11 +63,12 @@ nav a:hover {
   nav li {
     display: block;
     padding-top: 10px;
+    padding-right: 40px;
   }
   .mainlogo {
     width: 140px;
     padding-bottom: 50px;
-    padding-left: 95px;
+    padding-left: 100px;
   }
   nav a {
     font-size: 15px;
