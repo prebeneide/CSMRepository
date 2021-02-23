@@ -46,7 +46,6 @@ nav a:hover {
   }
   .navelement {
     background: #461b05;
-    display: block;
   }
   nav li {
     display: block;
@@ -60,19 +59,12 @@ nav a:hover {
 @media (min-width: 400px) and (max-width: 563px) {
   .navelement {
     background: #12b3cf;
-    display: block;
   }
   nav li {
     display: block;
-    margin-left: 0px;
-    position: relative;
-    left: 0px;
-    bottom: 0px;
-    }
   }
   .mainlogo {
     width: 157px;
-    display: block;
   }
 }
 
