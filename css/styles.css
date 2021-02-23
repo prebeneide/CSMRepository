@@ -60,7 +60,8 @@ nav a:hover {
 
 @media (min-width: 768px) and (max-width: 1023px) {
   nav a {
-    font-size: 17px;
+    font-size: 15px;
+    padding: 5px;
   }
   .navelement {
     background: #18e7e7;
