@@ -84,10 +84,10 @@ nav a:hover {
   }
   nav li {
     display: inline-block;
-    margin-left: 10sizepx;
+    margin-left: 10px;
   }
   .mainlogo {
-    width: 110px;
+    width: 140px;
   }
 }
 
