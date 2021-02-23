@@ -46,6 +46,7 @@ nav a:hover {
   }
   .navelement {
     background: #461b05;
+  }
 }
 
 @media (min-width: 400px) and (max-width: 767px) {
@@ -54,6 +55,7 @@ nav a:hover {
   }
   .navelement {
     background: #cbcf12;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
@@ -62,6 +64,7 @@ nav a:hover {
   }
   .navelement {
     background: #18e7e7;
+  }
 }
 
 @media (min-width: 1024px) and (max-width: 1279px) {
@@ -70,6 +73,7 @@ nav a:hover {
   }
   .navelement {
     background: #f82add;
+  }
 }
 
 @media (min-width: 1280px) and (max-width: 1439px) {
@@ -78,11 +82,13 @@ nav a:hover {
   }
   .navelement {
     background: #1ee73f;
+  }
 }
 
 @media (min-width: 1440px) and (max-width: 1919px) {
   .navelement {
     background: #d41313;
+  }
 }
 
 @media (min-width: 1920px) and (max-width: 3000px) {
@@ -91,4 +97,5 @@ nav a:hover {
   }
   .navelement {
     background: #06b83b;
+  }
 }
