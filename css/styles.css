@@ -66,10 +66,10 @@ nav a:hover {
   .mainlogo {
     width: 120px;
     padding-bottom: 50px;
-    padding-left: 90px;
+    padding-left: 100px;
   }
   nav a {
-    font-size: 13px;
+    font-size: 15px;
   }
 }
 
