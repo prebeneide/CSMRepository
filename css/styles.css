@@ -59,6 +59,7 @@ nav a:hover {
   }
   .mainlogo {
     width: 90px;
+    left: 10px;
   }
   nav li {
     margin-left: 5px;
