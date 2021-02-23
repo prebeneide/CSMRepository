@@ -41,61 +41,54 @@ nav a:hover {
 }
 
 @media (min-width: 360px) and (max-width: 399px) {
-  .active {
-    color: purple;
-  }
   nav a {
     font-size: 10px;
   }
+  .navelement {
+    background: #461b05;
 }
 
 @media (min-width: 400px) and (max-width: 767px) {
-  .active {
-    color: yellow;
-  }
   nav a {
     font-size: 15px;
   }
+  .navelement {
+    background: #cbcf12;
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
-  .active {
-    color: blue;
-  }
   nav a {
     font-size: 17px;
   }
+  .navelement {
+    background: #18e7e7;
 }
 
 @media (min-width: 1024px) and (max-width: 1279px) {
-  .active {
-    color: orangered;
-  }
   nav a {
     font-size: 20px;
   }
+  .navelement {
+    background: #f82add;
 }
 
 @media (min-width: 1280px) and (max-width: 1439px) {
-  .active {
-    color: green;
-  }
   nav a {
     font-size: 22px;
   }
+  .navelement {
+    background: #1ee73f;
 }
 
 @media (min-width: 1440px) and (max-width: 1919px) {
-  .active {
-    color: black;
-  }
+  .navelement {
+    background: #d41313;
 }
 
 @media (min-width: 1920px) and (max-width: 3000px) {
-  .active {
-    color: yellowgreen;
-  }
   nav a {
     font-size: 30px;
   }
+  .navelement {
+    background: #06b83b;
 }
