@@ -98,6 +98,9 @@ nav a:hover {
   .navelement {
     background: #1ee73f;
   }
+  .mainlogo {
+    width: 130px;
+  }
 }
 
 @media (min-width: 1440px) and (max-width: 1919px) {
@@ -117,6 +120,6 @@ nav a:hover {
     background: #06b83b;
   }
   .mainlogo {
-    width: 180px;
+    width: 210px;
   }
 }
