@@ -58,7 +58,11 @@ nav a:hover {
     background: #cbcf12;
   }
   .mainlogo {
-    width: 100px;
+    width: 90px;
+  }
+  nav li {
+    margin-left: 5px;
+    left: 10px;
   }
 }
 
