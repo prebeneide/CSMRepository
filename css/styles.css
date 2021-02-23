@@ -67,6 +67,7 @@ nav a:hover {
   .mainlogo {
     width: 120px;
     display: block;
+    text-align: center;
   }
 }
 
