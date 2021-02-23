@@ -65,6 +65,7 @@ nav a:hover {
   }
   .mainlogo {
     width: 157px;
+    position: relative;
   }
 }
 
