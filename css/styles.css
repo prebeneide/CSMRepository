@@ -74,6 +74,9 @@ nav a:hover {
   .navelement {
     background: #f82add;
   }
+  nav li {
+    display: inline-block;
+    margin-left: 20px;
 }
 
 @media (min-width: 1280px) and (max-width: 1439px) {
