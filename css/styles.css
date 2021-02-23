@@ -69,6 +69,9 @@ nav a:hover {
   .active {
     color: green;
   }
+  nav a {
+    font-size: 22px;
+  }
 }
 
 @media (min-width: 1440px) and (max-width: 1919px) {
@@ -80,5 +83,8 @@ nav a:hover {
 @media (min-width: 1920px) and (max-width: 3000px) {
   .active {
     color: yellowgreen;
+  }
+  nav a {
+    font-size: 30px;
   }
 }
