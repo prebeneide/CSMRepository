@@ -42,36 +42,43 @@ nav a:hover {
 }
 
 @media (min-width: 360px) and (max-width: 399px) {
-    .active {
-        color: purple;
+  .active {
+    color: purple;
+  }
 }
 
 @media (min-width: 400px) and (max-width: 767px) {
-    .active {
-        color: yellow;
+  .active {
+    color: yellow;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
-    .active {
-        color: blue;
+  .active {
+    color: blue;
+  }
 }
 
 @media (min-width: 1024px) and (max-width: 1279px) {
-    .active {
-        color: orangered;
+  .active {
+    color: orangered;
+  }
 }
 
 @media (min-width: 1280px) and (max-width: 1439px) {
-    .active {
-        color: green;
+  .active {
+    color: green;
+  }
 }
 
 @media (min-width: 1440px) and (max-width: 1919px) {
-    .active {
-        color: black;
+  .active {
+    color: black;
+  }
 }
 
 @media (min-width: 1920px) and (max-width: 3000px) {
-    .active {
-        color: yellowgreen;
+  .active {
+    color: yellowgreen;
+  }
 }
