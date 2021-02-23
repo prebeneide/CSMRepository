@@ -59,6 +59,7 @@ nav a:hover {
 @media (min-width: 400px) and (max-width: 563px) {
   .navelement {
     background: #12b3cf;
+    text-align: center;
   }
   nav li {
     display: block;
