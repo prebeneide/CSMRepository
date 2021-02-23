@@ -42,7 +42,7 @@ nav a:hover {
 
 @media (min-width: 360px) and (max-width: 399px) {
   nav a {
-    font-size: 10px;
+    font-size: 12px;
   }
   .navelement {
     background: #461b05;
@@ -59,7 +59,6 @@ nav a:hover {
 @media (min-width: 400px) and (max-width: 563px) {
   .navelement {
     background: #12b3cf;
-    text-align: center;
   }
   nav li {
     display: block;
@@ -67,8 +66,9 @@ nav a:hover {
   .mainlogo {
     width: 120px;
     display: block;
-    position: absolute;
-    top: 10px;
+  }
+  nav a {
+    font-size: 13px;
   }
 }
 
