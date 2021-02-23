@@ -1,0 +1,7 @@
+.navelement {
+  background: #fd7430;
+}
+
+nav li {
+  display: inline-block;
+}
