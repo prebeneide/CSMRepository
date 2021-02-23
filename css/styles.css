@@ -35,6 +35,7 @@ nav a:hover {
 .active {
   color: white;
   font-size: 40px;
+  text-shadow: green 3px;
 }
 
 .mainlogo {
