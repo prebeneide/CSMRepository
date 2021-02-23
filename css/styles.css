@@ -104,6 +104,9 @@ nav a:hover {
   .navelement {
     background: #d41313;
   }
+  .mainlogo {
+    width: 140px;
+  }
 }
 
 @media (min-width: 1920px) and (max-width: 3000px) {
