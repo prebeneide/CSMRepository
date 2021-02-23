@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Planet Love";
+  src: url("/Font/planetlove/Planet-love.woff") format("woff");
+}
+
 .navelement {
   text-align: left;
   background: #fd7430;
