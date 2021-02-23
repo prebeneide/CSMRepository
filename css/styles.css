@@ -58,7 +58,6 @@ nav a:hover {
 
 @media (min-width: 400px) and (max-width: 563px) {
   .navelement {
-    display: block;
     background: #12b3cf;
   }
   nav li {
@@ -66,6 +65,7 @@ nav a:hover {
   }
   .mainlogo {
     width: 120px;
+    left: 20px;
   }
   nav a {
     font-size: 13px;
