@@ -43,11 +43,11 @@ nav a:hover {
 @media (min-width: 360px) and (max-width: 399px) {
   .navelement {
     background: #26b119;
-    margin-right: 50px;
   }
   nav li {
     display: block;
     padding-top: 5px;
+    padding-right: 50px;
   }
   .mainlogo {
     width: 140px;
