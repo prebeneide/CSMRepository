@@ -65,8 +65,7 @@ nav a:hover {
   }
   .mainlogo {
     width: 120px;
-    left: 80px;
-    bottom: 30px;
+    padding-left: 40px;
   }
   nav a {
     font-size: 13px;
