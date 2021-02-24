@@ -85,7 +85,8 @@ h1 {
 
   h1 {
     font-size: 17pt;
-    padding-top: 750px;
+    position: relative;
+    top: 50px;
   }
 }
 
