@@ -42,8 +42,8 @@ nav a:hover {
 
 .pageheader {
   background-image: url("../robotsbackground200kb.jpg");
-  margin-top: 150px;
-  background-size: cover;
+  margin-top: 120px;
+  background-size: contain;
   background-repeat: no-repeat;
   min-height: 600px;
   background-position: center;
