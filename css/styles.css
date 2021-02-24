@@ -80,7 +80,7 @@ nav a:hover {
 @media (min-width: 564px) and (max-width: 767px) {
   nav a {
     font-size: 11px;
-    padding: 5px;
+    padding: 4px;
   }
   .navelement {
     background: #4de298;
@@ -90,9 +90,9 @@ nav a:hover {
     top: 40px;
   }
   nav li {
-    margin-left: 5px;
+    margin-left: 4px;
     bottom: 13px;
-    left: 22px;
+    left: 18px;
   }
 }
 
