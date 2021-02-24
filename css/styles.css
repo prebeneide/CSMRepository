@@ -45,11 +45,11 @@ h1 {
   text-align: center;
   font-size: 70pt;
   color: #ffffff;
+  text-shadow: 2px 2px black;
 }
 
 .welcome {
   padding-top: 180px;
-  text-shadow: 30px;
 }
 
 .pageheader {
