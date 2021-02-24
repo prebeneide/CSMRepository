@@ -77,6 +77,12 @@ h1 {
   nav a {
     font-size: 12px;
   }
+  .pageheader {
+    margin-top: 300px;
+  }
+  h1 {
+    font-size: 30pt;
+  }
 }
 
 @media (min-width: 400px) and (max-width: 563px) {
@@ -98,6 +104,9 @@ h1 {
   }
   .pageheader {
     margin-top: 300px;
+  }
+  h1 {
+    font-size: 40pt;
   }
 }
 
