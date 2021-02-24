@@ -40,8 +40,11 @@ nav a:hover {
   width: 157px;
 }
 
-@media (min-width: 360px) and (max-width: 399px) {
+@media (min-width: 100px) and (max-width: 399px) {
   .navelement {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background: #26b119;
   }
   nav li {
@@ -50,8 +53,6 @@ nav a:hover {
   }
   .mainlogo {
     width: 140px;
-    padding-bottom: 50px;
-    padding-left: 100px;
   }
   nav a {
     font-size: 12px;
@@ -65,7 +66,7 @@ nav a:hover {
   nav li {
     display: block;
     padding-top: 10px;
-    margin-right: 40px;
+    margin-right: 60px;
   }
   .mainlogo {
     width: 140px;
