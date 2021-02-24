@@ -77,9 +77,12 @@ h1 {
   nav a {
     font-size: 12px;
   }
+
   .pageheader {
-    margin-top: 300px;
+    margin-top: 225px;
+    background-size: 100%;
   }
+
   h1 {
     font-size: 30pt;
   }
@@ -103,8 +106,8 @@ h1 {
     font-size: 15px;
   }
   .pageheader {
-    margin-top: 220px;
-    background-size: 105%;
+    margin-top: 225px;
+    background-size: 100%;
   }
   h1 {
     font-size: 40pt;
