@@ -40,6 +40,14 @@ nav a:hover {
   width: 157px;
 }
 
+.pageheader {
+  background-image: url("../robotsbackground200kb.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 700px;
+  background-position: center;
+}
+
 @media (min-width: 100px) and (max-width: 399px) {
   .navelement {
     background: #26b119;
