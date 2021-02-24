@@ -43,7 +43,8 @@ nav a:hover {
 h1 {
   font-family: "Planet Love";
   text-align: center;
-  font-size: 200pt;
+  font-size: 150pt;
+  color: #ffffff;
 }
 
 .pageheader {
