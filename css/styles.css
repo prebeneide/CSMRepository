@@ -91,7 +91,6 @@ h1 {
 @media (min-width: 400px) and (max-width: 563px) {
   .navelement {
     background: #12b3cf;
-    max-height: 100px;
   }
   nav li {
     display: block;
