@@ -80,18 +80,19 @@ nav a:hover {
 @media (min-width: 564px) and (max-width: 767px) {
   nav a {
     font-size: 11px;
-    padding: 4px;
+    padding: 3px;
   }
   .navelement {
     background: #4de298;
   }
   .mainlogo {
-    width: 75px;
+    width: 85px;
     top: 40px;
   }
   nav li {
     margin-left: 5px;
     bottom: 13px;
+    left: 5px;
   }
 }
 
