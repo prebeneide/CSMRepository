@@ -43,7 +43,7 @@ nav a:hover {
 .pageheader {
   background-image: url("../robotsbackground200kb.jpg");
   margin-top: 120px;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   min-height: 600px;
   background-position: center;
