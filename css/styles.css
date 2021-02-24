@@ -127,6 +127,9 @@ h1 {
     bottom: 13px;
     left: 18px;
   }
+  h1 {
+    font-size: 60pt;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
