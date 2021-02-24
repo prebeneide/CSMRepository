@@ -104,8 +104,7 @@ h1 {
   }
   .pageheader {
     margin-top: 300px;
-    min-height: none;
-    width: 414px;
+    width: auto;
   }
   h1 {
     font-size: 40pt;
