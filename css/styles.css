@@ -43,7 +43,7 @@ nav a:hover {
 h1 {
   font-family: "Planet Love";
   text-align: center;
-  font-size: 150pt;
+  font-size: 100pt;
   color: #ffffff;
 }
 
@@ -54,7 +54,6 @@ h1 {
   background-repeat: no-repeat;
   min-height: 600px;
   background-position: center;
-  position: fixed;
 }
 
 @media (min-width: 100px) and (max-width: 399px) {
