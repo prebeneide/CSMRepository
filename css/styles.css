@@ -48,6 +48,11 @@ h1 {
   text-shadow: 3px 3px black;
 }
 
+h2 {
+  color: #fea252;
+  text-align: center;
+}
+
 .welcome {
   padding-top: 180px;
 }
@@ -86,8 +91,10 @@ h1 {
 
   h1 {
     font-size: 17pt;
-    position: relative;
-    top: 50px;
+    margin-top: 50px;
+  }
+  .welcome {
+    padding-top: 230px;
   }
 }
 
@@ -114,8 +121,9 @@ h1 {
   }
   h1 {
     font-size: 25pt;
-    position: relative;
-    top: 20px;
+  }
+  .welcome {
+    padding-top: 250px;
   }
 }
 
