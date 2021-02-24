@@ -68,11 +68,12 @@ h1 {
   nav li {
     display: block;
     padding-top: 2px;
+    padding-right: 20px;
   }
   .mainlogo {
     width: 90px;
     padding-bottom: 50px;
-    padding-left: 50px;
+    padding-left: 75px;
   }
   nav a {
     font-size: 12px;
