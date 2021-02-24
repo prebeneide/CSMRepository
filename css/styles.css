@@ -40,6 +40,12 @@ nav a:hover {
   width: 157px;
 }
 
+h1 {
+  font-family: "Planet Love";
+  text-align: center;
+  font-size: 200pt;
+}
+
 .pageheader {
   background-image: url("../robotsbackground200kb.jpg");
   margin-top: 120px;
