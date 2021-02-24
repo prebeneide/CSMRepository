@@ -54,6 +54,7 @@ h1 {
   background-repeat: no-repeat;
   min-height: 600px;
   background-position: center;
+  position: fixed;
 }
 
 @media (min-width: 100px) and (max-width: 399px) {
