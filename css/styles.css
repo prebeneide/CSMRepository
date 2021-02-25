@@ -3,6 +3,12 @@
   src: url("../Font/planetlove/Planet-love.woff") format("woff");
 }
 
+body {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr auto 1fr;
+}
+
 .navelement {
   text-align: left;
   background: #fd7430;
@@ -45,7 +51,7 @@ h1 {
   text-align: center;
   font-size: 70pt;
   color: #ffffff;
-  text-shadow: 3px 3px black;
+  text-shadow: 2px 2px black;
 }
 
 h2 {
