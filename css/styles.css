@@ -61,8 +61,13 @@ h1 {
   text-align: center;
   font-size: 70pt;
   color: #ffffff;
-  text-shadow: 2px 2px grey;
 }
+
+footer {
+  background-color:#fd7430;
+}
+  
+/*text-shadow: 2px 2px grey; /*
 
 footer {
   background-color:#fd7430;
