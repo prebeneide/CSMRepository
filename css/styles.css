@@ -35,8 +35,8 @@ nav a {
   font-size: 25px;
   padding-left: 20px;
   padding-right: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 nav li {
@@ -44,7 +44,7 @@ nav li {
 }
 
 .mainlogo {
-  width: 157px;
+  width: 170px;
 }
 
 /*
