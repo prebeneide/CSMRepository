@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: "American";
-  src: url("System/Library/Fonts/Supplemental/AmericanTypewriter.ttc") format("ttc");
+  src: url("System/Library/Fonts/Supplemental/AmericanTypewriter.ttc") format("woff");
 }
 
 body {
