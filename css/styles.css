@@ -78,11 +78,6 @@ footer {
     flex-direction: column;
   }
 
-  nav li {
-    padding-left: none;
-    padding-right: none;
-    padding-top: 15px;
-  }
 
   }
 
@@ -98,11 +93,6 @@ footer {
       flex-direction: column;
     }
 
-    nav li {
-      padding-left: none;
-      padding-right: none;
-      padding-top: 15px;
-    }
 
   }
   
