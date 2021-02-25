@@ -25,7 +25,6 @@ main {
 ul {
   display: flex;
   flex-wrap: wrap;
-  border: 1px solid white;
 }
 
 nav a {
@@ -37,8 +36,7 @@ nav a {
 
 nav li {
   display: inline-block;
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 20px;
   padding-top: 15px;
 }
 
