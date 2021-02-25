@@ -30,6 +30,7 @@ ul {
 }
 
 nav a {
+  justify-content: space-between;
   color: #ffffff;
   font-family: "Planet Love";
   text-decoration: none;
