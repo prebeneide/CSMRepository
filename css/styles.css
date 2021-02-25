@@ -15,6 +15,7 @@ header {
   background: #fd7430;
 }
 
+
 nav a:hover {
   text-decoration: underline;
 }
@@ -66,6 +67,26 @@ h1 {
 footer {
   background-color:#fd7430;
 }
+
+@media (min-width: 100px) and (max-width: 399px) {
+  header {
+    flex-direction: column;
+  }
+
+  ul {
+    flex-direction: column;
+  }
+  }
+
+  @media (min-width: 400px) and (max-width: 563px) {
+    header {
+      flex-direction: column;
+    }
+  
+    ul {
+      flex-direction: column;
+    }
+  }
   
 /*text-shadow: 2px 2px grey; /*
 
