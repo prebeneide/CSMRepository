@@ -25,17 +25,14 @@ main {
 
 ul {
   display: flex;
-  justify-content: space-between;
   border: 3px solid white;
 }
 
 nav a {
-  display:flex;
-  justify-content: space-between;
   color: #ffffff;
   font-family: "Planet Love";
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 nav li {
