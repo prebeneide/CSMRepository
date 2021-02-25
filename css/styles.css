@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: "American";
-  src: url("../Font/AmericanTypewriter.ttc") format("woff");
+  src: url("../Font/AmericanTypewriter.woff") format("woff");
 }
 
 body {
@@ -70,7 +70,7 @@ h1 {
 }
 
 h2 {
-  font-family: "American";
+  font-family: "Planet Love";
   text-align: center;
   font-size: 45pt;
   color: #fd7430;
