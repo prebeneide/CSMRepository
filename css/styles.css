@@ -25,6 +25,7 @@ main {
 
 ul {
   display: flex;
+  align-items: flex-end;
   border: 3px solid white;
 }
 
