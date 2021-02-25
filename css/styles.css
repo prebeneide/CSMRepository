@@ -1,11 +1,11 @@
 @font-face {
   font-family: "Planet Love";
-  src: url("../Font/planetlove/Planet-love.woff") format("woff2");
+  src: url("../Font/planetlove/Planet-love.woff") format("woff");
 }
 
 @font-face {
   font-family: "American";
-  src: url("System/Library/Fonts/Supplemental/AmericanTypewriter.woff") format("woff");
+  src: url("System/Library/Fonts/Supplemental/AmericanTypewriter.woff") format("woff2");
 }
 
 body {
