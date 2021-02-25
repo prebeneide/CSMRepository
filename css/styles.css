@@ -75,7 +75,7 @@ footer {
 
   ul {
     flex-direction: column;
-    justify-content: center;
+    justify-content: left;
   }
   }
 
