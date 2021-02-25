@@ -75,13 +75,13 @@ footer {
 
   ul {
     flex-direction: column;
-    justify-content: left;
   }
   }
 
   @media (min-width: 400px) and (max-width: 563px) {
     header {
       flex-direction: column;
+      align-items: center;
     }
   
     ul {
