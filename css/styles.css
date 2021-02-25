@@ -11,9 +11,6 @@ body {
 
 header {
   display: flex;
-  align-items: center;
-  align-content: center;
-  justify-content: space-between;
   background: #fd7430;
 }
 
@@ -26,9 +23,6 @@ main {
 
 ul {
   display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
-  flex-wrap: wrap;
   border: 3px solid white;
 }
 
