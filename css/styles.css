@@ -46,10 +46,11 @@ main {
 
 .pageheader {
   background-image: url("../robotsbackground200kb.jpg");
-  grid-row: 3;
+  grid-row: 1;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+  min-height: 700px;
 
 }
 
