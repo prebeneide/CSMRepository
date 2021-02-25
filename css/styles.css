@@ -77,7 +77,16 @@ footer {
   ul {
     flex-direction: column;
   }
+
+  nav li {
+    padding-left: none;
+    padding-right: none;
+    padding-top: 15px;
   }
+
+  }
+
+  
 
   @media (min-width: 400px) and (max-width: 563px) {
     header {
@@ -88,6 +97,13 @@ footer {
     ul {
       flex-direction: column;
     }
+
+    nav li {
+      padding-left: none;
+      padding-right: none;
+      padding-top: 15px;
+    }
+
   }
   
 /*text-shadow: 2px 2px grey; /*
