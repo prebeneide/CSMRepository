@@ -43,6 +43,10 @@ nav li {
   display: inline-block;
 }
 
+.mainlogo {
+  width: 157px;
+}
+
 /*
 @media screen and (min-width: /* når du ser nav-items blir skvisa */) {
   /* Her er det kanskje lurt å legge inn burgermeny eller lignende også */
@@ -87,9 +91,6 @@ nav a:hover {
   color: #fea252;
 }
 
-.mainlogo {
-  width: 157px;
-}
 
 h1 {
   font-family: "Planet Love";
