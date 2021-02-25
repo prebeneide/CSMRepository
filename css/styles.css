@@ -33,14 +33,14 @@ nav a {
   font-family: "Planet Love";
   text-decoration: none;
   font-size: 25px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 30px;
-  padding-bottom: 30px;
 }
 
 nav li {
   display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .mainlogo {
