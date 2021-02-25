@@ -11,7 +11,7 @@ body {
 
 header {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   background: #fd7430;
 }
 
