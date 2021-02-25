@@ -25,7 +25,7 @@ main {
 ul {
   display: flex;
   flex-wrap: wrap;
-  border: 3px solid white;
+  border: 1px solid white;
 }
 
 nav a {
@@ -33,6 +33,7 @@ nav a {
   font-family: "Planet Love";
   text-decoration: none;
   font-size: 25px;
+  padding: 10px;
 }
 
 nav li {
