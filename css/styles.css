@@ -15,13 +15,6 @@ header {
   background: #fd7430;
 }
 
-main {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  grid-template-rows: auto;
-}
-
-
 ul {
   display: flex;
   flex-wrap: wrap;
@@ -44,6 +37,22 @@ nav li {
 .mainlogo {
   width: 170px;
 }
+
+main {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto;
+}
+
+.pageheader {
+  background-image: url("../robotsbackground200kb.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+
+
 
 /*
 @media screen and (min-width: /* når du ser nav-items blir skvisa */) {
