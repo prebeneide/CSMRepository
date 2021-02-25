@@ -11,6 +11,7 @@ body {
 
 header {
   display: flex;
+  justify-content: space-between;
   background: #fd7430;
 }
 
@@ -28,8 +29,6 @@ ul {
 }
 
 nav a {
-  display: flex;
-  justify-content: space-between;
   color: #ffffff;
   padding: 10px;
   font-family: "Planet Love";
