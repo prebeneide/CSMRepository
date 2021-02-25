@@ -32,6 +32,9 @@ nav a {
   text-decoration: none;
 }
 
+nav li {
+  display: inline-block;
+}
 
 /*
 @media screen and (min-width: /* når du ser nav-items blir skvisa */) {
