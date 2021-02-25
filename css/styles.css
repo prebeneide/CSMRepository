@@ -45,7 +45,7 @@ main {
 }
 
 .pageheader {
-  grid-row: 0 / -1;
+  grid-row: -1 / -1;
   background-image: url("../robotsbackground200kb.jpg");
   background-size: cover;
   background-repeat: no-repeat;
