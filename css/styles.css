@@ -62,12 +62,15 @@ h2 {
 }
 
 .welcome {
+  padding-top: 180px;
 }
 
 .pageheader {
   background-image: url("../robotsbackground200kb.jpg");
+  margin-top: 120px;
   background-size: cover;
   background-repeat: no-repeat;
+  min-height: 600px;
   background-position: center;
 }
 @media (min-width: 100px) and (max-width: 399px) {
