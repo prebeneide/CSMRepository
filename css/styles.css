@@ -56,6 +56,14 @@ main {
   min-height: 700px;
 }
 
+h1 {
+  font-family: "Planet Love";
+  text-align: center;
+  font-size: 70pt;
+  color: #ffffff;
+  text-shadow: 2px 2px black;
+}
+
 footer {
   background-color:#fd7430;
 }
@@ -98,9 +106,6 @@ nav li {
 }
 
 
-.active {
-  color: #fea252;
-}
 
 
 h1 {
