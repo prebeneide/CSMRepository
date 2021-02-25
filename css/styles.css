@@ -15,6 +15,10 @@ header {
   background: #fd7430;
 }
 
+nav a:hover {
+  text-decoration: underline;
+}
+
 ul {
   display: flex;
   flex-wrap: wrap;
@@ -50,7 +54,6 @@ main {
   background-repeat: no-repeat;
   background-position: center;
   min-height: 700px;
-
 }
 
 footer {
@@ -94,11 +97,6 @@ nav li {
   bottom: 35px;
 }
 
-
-
-nav a:hover {
-  text-decoration: underline;
-}
 
 .active {
   color: #fea252;
