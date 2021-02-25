@@ -64,6 +64,13 @@ h1 {
   color: #ffffff;
 }
 
+h2 {
+  font-family: "Planet Love";
+  text-align: center;
+  font-size: 50pt;
+  color: #ffffff;
+}
+
 footer {
   background-color:#fd7430;
 }
