@@ -3,6 +3,11 @@
   src: url("../Font/planetlove/Planet-love.woff") format("woff");
 }
 
+@font-face {
+  font-family: "American Typewriter" ;
+  src: url("../System/Library/Fonts/Supplemental/AmericanTypewriter.ttc") format("ttc");
+}
+
 body {
   display: grid;
   grid-template-columns: 1fr;
@@ -72,7 +77,11 @@ h2 {
 }
 
 .firstimagehomepage {
-  max-height: 300px;
+  max-height: 350px;
+}
+
+p {
+  font-family: "American Typewriter";
 }
 
 footer {
