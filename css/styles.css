@@ -71,11 +71,11 @@ footer {
 @media (min-width: 100px) and (max-width: 399px) {
   header {
     flex-direction: column;
-    justify-content: center;
   }
 
   ul {
     flex-direction: column;
+    justify-content: center;
   }
   }
 
