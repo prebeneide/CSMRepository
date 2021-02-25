@@ -12,7 +12,6 @@ body {
 header {
   display: flex;
   background: #fd7430;
-  justify-content: space-between;
 }
 
 main {
@@ -24,6 +23,7 @@ main {
 
 ul {
   display: flex;
+  justify-content: space-between;
 }
 
 nav a {
