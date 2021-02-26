@@ -52,8 +52,8 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: auto;
-    margin-left: 2em;
-    margin-right: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
   }
 
   .pageheader {
@@ -110,7 +110,7 @@
     align-items: center;
     background-color: #fd7430;
     margin: 0 auto;
-    margin-bottom: 50px;
+    margin-bottom: 1em;
 
   }
 
@@ -127,11 +127,12 @@
     display: flex;
     flex-direction: column;
     background-color: #fd7430;
-    margin: 2em;
+    margin: 1em;
   }
 
 .tripletext {
   color: white;
+  margin: 1em;
 }
 
   footer {
