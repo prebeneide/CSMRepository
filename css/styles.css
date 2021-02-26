@@ -90,10 +90,10 @@
 
   .maincase {
     display: flex;
+    align-content: center;
     flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
-    align-content: center;
     background-color: #fd7430;
 
   }
