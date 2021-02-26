@@ -52,6 +52,8 @@
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: auto;
+    margin-left: 2em;
+    margin-right: 2em;
   }
 
   .pageheader {
@@ -115,7 +117,7 @@
   }
 
   .triplecase {
-
+display:
   }
 
   .tripleimage {
