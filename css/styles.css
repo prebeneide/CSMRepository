@@ -116,7 +116,7 @@
 
   .triplecase {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     background-color: #fd7430;
     align-items: center;
   }
