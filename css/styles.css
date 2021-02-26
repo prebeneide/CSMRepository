@@ -81,7 +81,7 @@
   }
 
   .maincase p {
-    max-width: 550px; 
+  
   }
 
   p {
@@ -95,6 +95,8 @@
     flex-direction: column;
     align-items: center;
     background-color: #fd7430;
+    max-width: 550px;
+    margin: 0 auto;
 
   }
 
