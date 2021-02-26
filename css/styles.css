@@ -82,7 +82,7 @@
     max-height: 350px; 
     padding-top: 70px;
     padding-bottom: 70px;
-    border-radius: 50%;
+    border-radius: 5%;
   }
 
 
@@ -90,6 +90,9 @@
     color: white;
     margin-left: 200px;
     margin-right: 200px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
     border: 1px solid white;
    
   }
