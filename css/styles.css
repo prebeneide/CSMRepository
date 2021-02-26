@@ -3,10 +3,10 @@
     src: url("../Font/planetlove/Planet-love.woff") format("woff");
   }
 
-  @font-face {
-    font-family: "American Typewriter";
-    src: url("../Font/AmericanTypewriter.ttc") format("ttc");
-  }
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap"
+    rel="stylesheet"
+  />
 
   body {
     display: grid;
@@ -97,7 +97,7 @@
   }
 
   p {
-  font-family: "American Typewriter";
+    font-family: "Montserrat";
   }
 
   .singlecase {
@@ -115,31 +115,19 @@
   }
 
   .triplecase {
-    display: flex;
-    align-items: center;
-    margin-left: 10px;
-    margin-right: 10px;
-    margin-bottom: 50px;
 
   }
 
   .tripleimage {
-    max-height: 150px;
-    padding: 10px;
+    height: 170px;
   }
 
   .triplesection {
-    display: flex;
-    flex-direction:column;
     background-color: #fd7430;
-    align-items: center;
   }
 
 .tripletext {
   color: white;
-  margin-left: 40px;
-  margin-right: 40px;
-
 }
 
   footer {
