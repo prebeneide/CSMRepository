@@ -116,17 +116,19 @@
 
   .triplecase {
     display: flex;
-    background-color: #fd7430;
     align-items: center;
   }
 
   .tripleimage {
-    max-height: 150px; 
+    max-width: 200px; 
   }
 
   .triplesection {
     display: flex;
     flex-direction:column;
+    background-color: #fd7430;
+    margin: 20px;
+
 
   }
 
