@@ -117,8 +117,8 @@
   .triplecase {
     display: flex;
     align-items: center;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
 
   }
 
@@ -133,7 +133,7 @@
     display: flex;
     flex-direction:column;
     background-color: #fd7430;
-    margin: 10px;
+    margin: 20px;
     align-items: center;
 
 
