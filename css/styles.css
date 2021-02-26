@@ -84,6 +84,14 @@ p {
  font-family: "American";
 }
 
+.maincase {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+
+}
+
 footer {
   background-color:#fd7430;
 }
