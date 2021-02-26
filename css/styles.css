@@ -116,12 +116,18 @@
 
   .triplecase {
     display: flex;
+    flex-direction: column;
     background-color: #fd7430;
     align-items: center;
   }
 
   .tripleimage {
     max-height: 150px; 
+  }
+
+  .triplesection {
+    display: flex;
+
   }
 
   footer {
