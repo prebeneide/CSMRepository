@@ -132,6 +132,7 @@
 
   .triplesection {
     display: flex;
+    flex: 1;
     flex-direction:column;
     background-color: #fd7430;
     margin: 20px;
@@ -140,7 +141,7 @@
 
 .tripletext {
   color: white;
-  
+
 }
 
   footer {
