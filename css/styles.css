@@ -117,7 +117,8 @@
   }
 
   .triplecase {
-display:
+    display:flex;
+    flex-direction: rox;
   }
 
   .tripleimage {
@@ -125,6 +126,8 @@ display:
   }
 
   .triplesection {
+    display: flex;
+    flex-direction: column;
     background-color: #fd7430;
   }
 
