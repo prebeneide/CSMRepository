@@ -78,7 +78,7 @@
     margin-bottom: 100px;
   }
 
-  .firstimagehomepage {
+  .singleimage {
     max-height: 350px; 
     padding-top: 70px;
     padding-bottom: 70px;
@@ -86,7 +86,7 @@
   }
 
 
-  .maincase p {
+  .singlecase p {
     color: white;
     margin-left: 200px;
     margin-right: 200px;
@@ -100,7 +100,7 @@
   font-family: "American Typewriter";
   }
 
-  .maincase {
+  .singlecase {
     display: flex;
     align-content: space-between;
     flex-wrap: wrap;
@@ -112,6 +112,16 @@
     margin-right: 30px;
     margin-bottom: 50px;
 
+  }
+
+  .triplecase {
+    display: flex;
+    background-color: #fd7430;
+    align-items: center;
+  }
+
+  .tripleimage {
+    max-height: 150px; 
   }
 
   footer {
