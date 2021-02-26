@@ -126,6 +126,7 @@
 
   .triplesection {
     display: flex;
+    flex-direction:column;
 
   }
 
