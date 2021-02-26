@@ -108,8 +108,8 @@
     align-items: center;
     background-color: #fd7430;
     margin: 0 auto;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 50px;
 
   }
@@ -117,30 +117,28 @@
   .triplecase {
     display: flex;
     align-items: center;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 50px;
 
   }
 
   .tripleimage {
-    max-height: 150px; 
-    padding-top: 20px;
-    padding-bottom: 20px;
-    border-radius: 5%;
+    max-height: 150px;
+    padding: 10px;
   }
 
   .triplesection {
     display: flex;
-    flex: 1;
     flex-direction:column;
     background-color: #fd7430;
-    margin: 20px;
     align-items: center;
   }
 
 .tripletext {
   color: white;
+  margin-left: 40px;
+  margin-right: 40px;
 
 }
 
