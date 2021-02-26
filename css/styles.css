@@ -80,7 +80,9 @@
     max-height: 350px;
   }
 
-  
+  .maincase p {
+    max-width: 550px; 
+  }
 
   p {
   font-family: "American Typewriter";
@@ -93,7 +95,6 @@
     flex-direction: column;
     align-items: center;
     background-color: #fd7430;
-    max-width: 550px; 
 
   }
 
