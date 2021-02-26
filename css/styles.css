@@ -136,9 +136,12 @@
     background-color: #fd7430;
     margin: 20px;
     align-items: center;
-
-
   }
+
+.tripletext {
+  color: white;
+  
+}
 
   footer {
     background-color:#fd7430;
