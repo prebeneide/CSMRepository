@@ -80,6 +80,10 @@ h2 {
   max-height: 350px;
 }
 
+.maincase p {
+  max-width: 100px;
+}
+
 p {
  font-family: "American";
 }
