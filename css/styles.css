@@ -81,7 +81,7 @@ h2 {
 }
 
 .maincase p {
-  max-width: 500px;
+  min-width: 550px;
 }
 
 p {
