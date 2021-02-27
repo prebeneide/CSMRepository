@@ -139,6 +139,10 @@
   margin-bottom: 1em;
 }
 
+.bold p{
+  font-weight: bold;
+}
+
   footer {
     background-color:#fd7430;
     display: flex;
