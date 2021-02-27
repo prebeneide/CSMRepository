@@ -100,6 +100,7 @@
 
   p {
     font-family: "Montserrat";
+    color: white;
   }
 
   .singlecase {
@@ -137,6 +138,10 @@
 
   footer {
     background-color:#fd7430;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
   }
 
   @media (min-width: 100px) and (max-width: 399px) {
