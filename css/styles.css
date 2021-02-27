@@ -149,9 +149,11 @@
     width: 3em;
   }
 
-  footer div {
-    align-content: center;
+  .footerdiv {
+    text-align: center;
   }
+
+ 
   @media (min-width: 100px) and (max-width: 399px) {
     header {
       flex-direction: column;
