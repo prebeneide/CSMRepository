@@ -243,6 +243,7 @@ button, input, select, textarea {
 
   .triplecase {
     flex-direction: column;
+    flex-wrap: wrap;
   }
 }
 
