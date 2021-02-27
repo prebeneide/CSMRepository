@@ -99,6 +99,7 @@
   p {
     font-family: "Montserrat";
     color: white;
+    margin: 1em;
   }
 
   .singlecase {
@@ -131,7 +132,6 @@
 
 .tripletext {
   color: white;
-  margin: 1em;
 }
 
 .newsletter {
