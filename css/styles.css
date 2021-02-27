@@ -200,7 +200,7 @@ button, input, select, textarea {
 
   
  
-  @media (min-width: 100px) and (max-width: 399px) {
+  @media (min-width: 100px) and (max-width: 563px) {
     header {
       flex-direction: column;
       align-items: center;
@@ -213,20 +213,8 @@ button, input, select, textarea {
 
     }
 
-    
-
-    @media (min-width: 400px) and (max-width: 563px) {
-      header {
-        flex-direction: column;
-        align-items: center;
-      }
-    
-      ul {
-        flex-direction: column;
-      }
-
-
-    }
+  @media (max-width: 880px) {
+    h1: 50pt;
     
   /*text-shadow: 2px 2px grey; /*
 
@@ -388,72 +376,9 @@ button, input, select, textarea {
     }
   }
 
-  @media (min-width: 768px) and (max-width: 1023px) {
-    nav a {
-      font-size: 16px;
-      padding: 3px;
-    }
-    .navelement {
-      background: #18e7e7;
-    }
-    .mainlogo {
-      width: 110px;
-    }
-    nav li {
-      margin-left: 10px;
-      left: 40px;
-    }
-    h1 {
-      font-size: 70pt;
-    }
-  }
 
-  @media (min-width: 1024px) and (max-width: 1279px) {
-    nav a {
-      font-size: 18px;
-    }
-    .navelement {
-      background: #f82add;
-    }
-    nav li {
-      display: inline-block;
-      margin-left: 20px;
-    }
-    .mainlogo {
-      width: 140px;
-    }
-  }
 
-  @media (min-width: 1280px) and (max-width: 1439px) {
-    nav a {
-      font-size: 22px;
-    }
-    .navelement {
-      background: #1ee73f;
-    }
-    .mainlogo {
-      width: 170px;
-    }
-  }
 
-  @media (min-width: 1440px) and (max-width: 1919px) {
-    .navelement {
-      background: #d41313;
-    }
-    .mainlogo {
-      width: 190px;
-    }
-  }
-
-  @media (min-width: 1920px) and (max-width: 3000px) {
-    nav a {
-      font-size: 30px;
-    }
-    .navelement {
-      background: #06b83b;
-    }
-    .mainlogo {
-      width: 210px;
-    }
-  }
-  */
+ 
+ 
+ 
