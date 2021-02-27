@@ -208,6 +208,10 @@ button, input, select, textarea {
       flex-direction: column;
     }
 
+    .triplecase {
+      flex-direction: column;
+    }
+
     @media (min-width: 420px) and (max-width: 880px) {
 
     .singlecase p {
@@ -238,7 +242,6 @@ button, input, select, textarea {
 
 
   .triplecase {
-    display:flex;
     flex-direction: column;
   }
 }
