@@ -87,7 +87,6 @@
     max-height: 350px; 
     padding-top: 70px;
     padding-bottom: 70px;
-    border-radius: 5%;
   }
 
 
@@ -98,7 +97,6 @@
     padding-bottom: 50px;
     padding-right: 100px;
     padding-left: 100px;
-   
   }
 
   p {
@@ -200,7 +198,7 @@ button, input, select, textarea {
 
   
  
-  @media (min-width: 100px) and (max-width: 563px) {
+  @media (min-width: 100px) and (max-width: 420px) {
     header {
       flex-direction: column;
       align-items: center;
@@ -210,12 +208,35 @@ button, input, select, textarea {
       flex-direction: column;
     }
 
+    @media (min-width: 420px) and (max-width: 880px) {
 
+    .singlecase p {
+      margin-left: none;
+      margin-right: none;
+      padding-bottom: none;
+      padding-right: none;
+      padding-left: none;
     }
 
-  @media (max-width: 880px) {
-    h1: 50pt;
-    
+    .singlecase {
+      display: flex;
+      align-content: space-between;
+      flex-wrap: wrap;
+      flex-direction: column;
+      align-items: center;
+      background-color: #fd7430;
+      margin: 0 auto;
+      margin-bottom: 1em;
+    }
+
+    .singleimage {
+      max-height: 250px; 
+      padding-top: 2em;
+      padding-bottom: 2em;
+      }
+    }
+
+  }
   /*text-shadow: 2px 2px grey; /*
 
   footer {
