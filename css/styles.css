@@ -134,6 +134,10 @@
   margin: 1em;
 }
 
+.newsletter {
+  background-color: #fd7430;
+}
+
   footer {
     background-color:#fd7430;
     display: flex;
@@ -152,6 +156,7 @@
     text-align: center;
   }
 
+  
  
   @media (min-width: 100px) and (max-width: 399px) {
     header {
