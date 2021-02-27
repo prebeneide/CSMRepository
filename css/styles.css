@@ -145,7 +145,7 @@
 
 .newsletter section {
   display: flex;
-  justify-content:end
+  justify-content: end;
   margin: 3em;
 }
 
