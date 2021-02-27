@@ -143,6 +143,10 @@
   font-weight: bold;
 }
 
+.newsletter section {
+  margin: 1 em;
+}
+
   footer {
     background-color:#fd7430;
     display: flex;
