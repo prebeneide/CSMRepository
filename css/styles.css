@@ -212,7 +212,15 @@ button, input, select, textarea {
       flex-direction: column;
     }
 
-    @media (min-width: 420px) and (max-width: 880px) {
+    @media (min-width: 420px) and (max-width: 900px) {
+      .pageheader {
+        min-height: 400px;
+      }
+    
+      h1 {
+        font-size: 40pt;
+      }
+
 
     .singlecase p {
       margin-left: none;
@@ -238,7 +246,6 @@ button, input, select, textarea {
       padding-top: 2em;
       padding-bottom: 2em;
       }
-    }
 
 
   .triplecase {
