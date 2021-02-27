@@ -23,6 +23,11 @@
 
   nav a:hover {
     text-decoration: underline;
+    color: #D73B18;
+  }
+
+  .active {
+    color:#D73B18;
   }
 
   ul {
@@ -135,18 +140,44 @@
 }
 
 .newsletter {
+  display:flex;
+  flex-direction: column;
   background-color: #fd7430;
   margin-bottom: 1em;
+}
+
+.newsletterform {
+  margin: 1em;
+  display: flex;
+}
+
+form label {
+  color:white;
+  font-family: "Montserrat";
+}
+
+input[type=text] {
+  margin: 1em;
+}
+
+.sendsignup {
+  font-family: "Montserrat";
+  border: 2px solid white;
+  text-decoration: none;
+  color:white;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 3em;
 }
 
 .bold {
   font-weight: bold;
 }
 
-.newsletter section {
-  display: flex;
-  justify-content: end;
-  margin: 3em;
+button, input, select, textarea {
+  font-family: inherit;
+  font-size: 100%;
 }
 
   footer {
