@@ -148,9 +148,29 @@
     flex-direction: column;
     background-color: #3A9CD3;
     margin: 1em;
+    text-align:center;
   }
 
-  
+.fourcase {
+  display: flex;
+  flex-direction: row;
+}
+
+.foursection {
+  display: flex;
+  flex-direction: column;
+  background-color: #3A9CD3;
+  align-items: center;
+  margin: 1em;
+  padding: 1em;
+}
+
+
+#margin {
+  margin-left: 50px;
+  padding-right: 50px;
+}
+
   .newsletter {
     display: flex;
     flex-direction: column;
@@ -193,6 +213,8 @@
     font-family: inherit;
     font-size: 100%;
   }
+
+  
   
   footer {
     background-color: #3A9CD3;
@@ -210,6 +232,24 @@
   
   .footerdiv {
     text-align: center;
+  }
+
+  .icon {
+      width: 50px;
+      padding: 20px;
+  }
+
+  #largericon {
+  width: 72px;
+  }
+
+  #visitusheader {
+    text-align:right;
+    margin: 1em;
+  }
+
+  .singlecase p {
+    padding-top: 2em;
   }
   
   @media (min-width: 350px) and (max-width: 420px) {
