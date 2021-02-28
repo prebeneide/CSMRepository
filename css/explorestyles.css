@@ -212,6 +212,13 @@
     text-align: center;
   }
   
+.contactus {
+  color:white;
+  font-family: "Montserrat";
+  text-align: center;
+  margin: 1em;
+}
+
   @media (min-width: 350px) and (max-width: 420px) {
   
   
