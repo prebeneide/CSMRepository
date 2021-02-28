@@ -22,11 +22,10 @@ header {
 
 nav a:hover {
   text-decoration: underline;
-  color: #d73b18;
 }
 
 .active {
-  color: #d73b18;
+  text-decoration: underline;
 }
 
 ul {
