@@ -17,7 +17,7 @@
   header {
     display: flex;
     align-items: flex-end;
-    background: #E25183;
+    background: #971A99;
   }
   
   nav a:hover {
@@ -59,7 +59,7 @@
   }
   
   .pageheader {
-    background-image: url("../rsz_1rsz_funny-glass-head-ufo-robot-on-a-violet-green-backg-e73ur4c.jpg");
+    background-image: url("../purplebackground.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -68,16 +68,17 @@
   
   h1 {
     font-family: "Planet Love";
-    text-align: center;
+    text-align:right;
     font-size: 70pt;
     color: #ffffff;
+    padding-right: 1em;
   }
   
   h2 {
     font-family: "Planet Love";
     text-align: center;
     font-size: 45pt;
-    color: #E25183;
+    color: #971A99;
     margin-top: 100px;
     margin-bottom: 100px;
   }
@@ -109,7 +110,7 @@
     flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
-    background-color: #E25183;
+    background-color: #971A99;
     margin: 0 auto;
     margin-bottom: 1em;
   }
@@ -126,7 +127,7 @@
   .triplesection {
     display: flex;
     flex-direction: column;
-    background-color: #E25183;
+    background-color: #971A99;
     margin: 1em;
   }
   
@@ -146,7 +147,7 @@
   .doublesection {
     display: flex;
     flex-direction: column;
-    background-color: #E25183;
+    background-color: #971A99;
     margin: 1em;
   }
 
@@ -154,7 +155,7 @@
   .newsletter {
     display: flex;
     flex-direction: column;
-    background-color: #E25183;
+    background-color: #971A99;
     margin-bottom: 1em;
   }
   
@@ -195,7 +196,7 @@
   }
   
   footer {
-    background-color: #E25183;
+    background-color: #971A99;
     display: flex;
     flex-direction: column;
     justify-content: center;
