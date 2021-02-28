@@ -82,6 +82,15 @@
     margin-top: 100px;
     margin-bottom: 100px;
   }
+
+  h3 {
+    font-family: "Planet Love";
+    text-align: center;
+    font-size: 30pt;
+    color: #ffffff;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
   
   .singleimage {
     max-height: 350px;
